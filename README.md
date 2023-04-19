@@ -1,2 +1,2 @@
 # python
-Execicios de Aula
+Execicios de Aula Iniciante
